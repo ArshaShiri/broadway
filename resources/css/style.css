@@ -1,0 +1,32 @@
+* {
+    text-align:center;
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2{
+    font-size: 42px;
+    font-weight: 300;
+}
+
+a{
+    font-size: 16px;
+    color: aquamarine;    
+}
+
+.footer p{
+    font-size: 21px;
+    color: gray; 
+    text-align:right;    
+}
+
+p{
+    font-size: 21px;
+    color: gray;    
+}
